@@ -12,6 +12,10 @@ connect css from build file
 
 #### now delete build folder and connect css from tailwind css where we import tailwindcss files
 
+# But for vite, must need tailwind config file with post config file
+
+> > > npx tailwind init -p
+
 ##### it will run dev from the script
 
 > > npm run dev
